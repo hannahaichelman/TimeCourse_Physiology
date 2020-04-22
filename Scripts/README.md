@@ -1,4 +1,4 @@
-#Scripts
+# Scripts
 
 TimeCoursePhysiologyAnalysis_github.R is is used to analyze changes in individual coral physiology metrics through time as well as correlations of physiology metrics through time. This script was used to make Figures 2, 3, 4, 6, S3 and S4.
 
