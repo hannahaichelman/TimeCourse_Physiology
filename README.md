@@ -9,6 +9,7 @@ Contact Info: hannahaichelman@gmail.com
 
 
 R Session Info for most recent analysis:
+``` r
 > sessionInfo()
 R version 4.0.1 (2020-06-06)
 Platform: x86_64-apple-darwin17.0 (64-bit)
@@ -50,3 +51,4 @@ loaded via a namespace (and not attached):
 [71] modelr_0.1.8        crayon_1.3.4        utf8_1.1.4          tmvnsim_1.0-2       jpeg_0.1-8.1       
 [76] grid_4.0.1          readxl_1.3.1        data.table_1.12.8   blob_1.2.1          reprex_0.3.0       
 [81] digest_0.6.25       xtable_1.8-4        numDeriv_2016.8-1.1 munsell_0.5.0       viridisLite_0.3.0 
+```
