@@ -7,3 +7,7 @@ We analyzed the data both considering the response of individual physiology para
 
 Contact Info: hannahaichelman@gmail.com
 
+[![DOI](https://zenodo.org/badge/249780948.svg)](https://zenodo.org/badge/latestdoi/249780948)
+
+Zenodo Repository Link: https://doi.org/10.5281/zenodo.4914428
+
